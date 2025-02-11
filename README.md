@@ -1,6 +1,10 @@
-# Conditional Data Workflow Framework
+# Conditional Data Workflow Framework (CDWF)
 
 ![Draft](https://img.shields.io/badge/status-draft-yellow.svg)
+
+**Conditional Data Workflow Framework (CDWF)** is a **Domain-Specific Language (DSL)** designed to define, structure, and document data processing workflows in a clear and standardized format. 
+
+This framework is **not** a programming language or a software library. Instead, it serves as a **contractual specification** to outline how data should flow through different systems, under what conditions, and with which transformations. CDWF aims to bridge the gap between **technical teams** (developers, data engineers) and **business analysts** by providing a human-readable yet structured format for defining complex workflows.
 
 ## Sample Scenario
 
