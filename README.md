@@ -148,6 +148,6 @@ Output {
     # Add user to data warehouse
     DataWarehouse -> "Fabrikam DWH";
     @ Create ping for the post
-    PingPost --> "Ping to PingOMatic"; # Hate pingomatic
+    PingPost -> "Ping to PingOMatic"; # Hate pingomatic
   }
 ```
